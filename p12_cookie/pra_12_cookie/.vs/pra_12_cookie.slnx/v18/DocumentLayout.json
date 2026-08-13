@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\p12_cookie\\pra_12_cookie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE73A60-537B-4983-8485-D50DA1FF227B}|pra_12_cookie\\pra_12_cookie.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p12_cookie\\pra_12_cookie\\pra_12_cookie\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DE73A60-537B-4983-8485-D50DA1FF227B}|pra_12_cookie\\pra_12_cookie.csproj|solutionrelative:pra_12_cookie\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\p12_cookie\\pra_12_cookie\\pra_12_cookie\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "pra_12_cookie\\WebForm1.aspx",
+              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\p12_cookie\\pra_12_cookie\\pra_12_cookie\\WebForm1.aspx",
+              "RelativeToolTip": "pra_12_cookie\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T15:49:33.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

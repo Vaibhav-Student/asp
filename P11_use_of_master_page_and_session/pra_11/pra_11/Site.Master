@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="pra_11.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+            <div class="header">
+                <h1>Registration System</h1>
+            </div>
+
+            <div class="menu">
+
+                <asp:HyperLink
+                    ID="lnkRegistration"
+                    runat="server"
+                    NavigateUrl="~/Registration.aspx"
+                    Text="Registration">
+                </asp:HyperLink>
+
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                <asp:HyperLink
+                    ID="lnkLogin"
+                    runat="server"
+                    NavigateUrl="~/Login.aspx"
+                    Text="Login">
+                </asp:HyperLink>
+
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                <asp:Label
+                    ID="lblUser"
+                    runat="server"
+                    CssClass="user">
+                </asp:Label>
+
+            </div>
+
+            <div class="container">
+
+            <asp:ContentPlaceHolder
+                ID="MainContent"
+                runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+    </form>
+</body>
+</html>
