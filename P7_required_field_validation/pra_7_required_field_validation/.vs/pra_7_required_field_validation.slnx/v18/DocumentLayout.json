@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{FA0733F2-6F42-4CFA-AE08-CB741615C216}|pra_7_required_field_validation\\pra_7_required_field_validation.csproj|solutionrelative:pra_7_required_field_validation\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA0733F2-6F42-4CFA-AE08-CB741615C216}|pra_7_required_field_validation\\pra_7_required_field_validation.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p7_required_field_validation\\pra_7_required_field_validation\\pra_7_required_field_validation\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA0733F2-6F42-4CFA-AE08-CB741615C216}|pra_7_required_field_validation\\pra_7_required_field_validation.csproj|D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P7_required_field_validation\\pra_7_required_field_validation\\pra_7_required_field_validation\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA0733F2-6F42-4CFA-AE08-CB741615C216}|pra_7_required_field_validation\\pra_7_required_field_validation.csproj|solutionrelative:pra_7_required_field_validation\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA0733F2-6F42-4CFA-AE08-CB741615C216}|pra_7_required_field_validation\\pra_7_required_field_validation.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p7_required_field_validation\\pra_7_required_field_validation\\pra_7_required_field_validation\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0733F2-6F42-4CFA-AE08-CB741615C216}|pra_7_required_field_validation\\pra_7_required_field_validation.csproj|solutionrelative:pra_7_required_field_validation\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,26 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebForm1.aspx.designer.cs",
-              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P7_required_field_validation\\pra_7_required_field_validation\\pra_7_required_field_validation\\WebForm1.aspx.designer.cs",
-              "RelativeDocumentMoniker": "pra_7_required_field_validation\\WebForm1.aspx.designer.cs",
-              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P7_required_field_validation\\pra_7_required_field_validation\\pra_7_required_field_validation\\WebForm1.aspx.designer.cs",
-              "RelativeToolTip": "pra_7_required_field_validation\\WebForm1.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T11:23:26.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P7_required_field_validation\\pra_7_required_field_validation\\pra_7_required_field_validation\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "pra_7_required_field_validation\\WebForm1.aspx.cs",
               "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P7_required_field_validation\\pra_7_required_field_validation\\pra_7_required_field_validation\\WebForm1.aspx.cs",
               "RelativeToolTip": "pra_7_required_field_validation\\WebForm1.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T11:10:54.904Z",
               "EditorCaption": ""

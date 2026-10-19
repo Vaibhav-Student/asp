@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p11_use_of_master_page_and_session\\pra_11\\pra_11\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|solutionrelative:pra_11\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p11_use_of_master_page_and_session\\pra_11\\pra_11\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|solutionrelative:pra_11\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p11_use_of_master_page_and_session\\pra_11\\pra_11\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|solutionrelative:pra_11\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p11_use_of_master_page_and_session\\pra_11\\pra_11\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|solutionrelative:pra_11\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p11_use_of_master_page_and_session\\pra_11\\pra_11\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{5A7DB86D-0F1F-4AA6-8F5C-F2DF78C93533}|pra_11\\pra_11.csproj|solutionrelative:pra_11\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
@@ -23,6 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "pra_11\\Registration.aspx.cs",
+              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Registration.aspx.cs",
+              "RelativeToolTip": "pra_11\\Registration.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T05:18:32.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "pra_11\\Login.aspx.cs",
+              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Login.aspx.cs",
+              "RelativeToolTip": "pra_11\\Login.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T05:17:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Site.Master",
+              "RelativeDocumentMoniker": "pra_11\\Site.Master",
+              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Site.Master",
+              "RelativeToolTip": "pra_11\\Site.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T16:14:43.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Registration.aspx",
+              "RelativeDocumentMoniker": "pra_11\\Registration.aspx",
+              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Registration.aspx",
+              "RelativeToolTip": "pra_11\\Registration.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-18T05:16:47.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.aspx",
               "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Login.aspx",
               "RelativeDocumentMoniker": "pra_11\\Login.aspx",
@@ -31,19 +95,6 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-08-13T16:15:19.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Site.Master",
-              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Site.Master",
-              "RelativeDocumentMoniker": "pra_11\\Site.Master",
-              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P11_use_of_master_page_and_session\\pra_11\\pra_11\\Site.Master",
-              "RelativeToolTip": "pra_11\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-08-13T16:14:43.026Z",
               "EditorCaption": ""
             }
           ]

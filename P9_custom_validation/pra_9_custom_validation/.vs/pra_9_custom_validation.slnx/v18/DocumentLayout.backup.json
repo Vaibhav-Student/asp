@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F70E1D6-83D7-4491-8AF3-A821F1C6FB50}|pra_9_custom_validation\\pra_9_custom_validation.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p9_custom_validation\\pra_9_custom_validation\\pra_9_custom_validation\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F70E1D6-83D7-4491-8AF3-A821F1C6FB50}|pra_9_custom_validation\\pra_9_custom_validation.csproj|solutionrelative:pra_9_custom_validation\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F70E1D6-83D7-4491-8AF3-A821F1C6FB50}|pra_9_custom_validation\\pra_9_custom_validation.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p9_custom_validation\\pra_9_custom_validation\\pra_9_custom_validation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8F70E1D6-83D7-4491-8AF3-A821F1C6FB50}|pra_9_custom_validation\\pra_9_custom_validation.csproj|solutionrelative:pra_9_custom_validation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P9_custom_validation\\pra_9_custom_validation\\pra_9_custom_validation\\Web.config",
-              "RelativeDocumentMoniker": "pra_9_custom_validation\\Web.config",
-              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P9_custom_validation\\pra_9_custom_validation\\pra_9_custom_validation\\Web.config",
-              "RelativeToolTip": "pra_9_custom_validation\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-08-13T11:37:16.897Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,

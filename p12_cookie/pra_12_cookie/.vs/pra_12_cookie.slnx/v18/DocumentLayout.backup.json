@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DE73A60-537B-4983-8485-D50DA1FF227B}|pra_12_cookie\\pra_12_cookie.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p12_cookie\\pra_12_cookie\\pra_12_cookie\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4DE73A60-537B-4983-8485-D50DA1FF227B}|pra_12_cookie\\pra_12_cookie.csproj|solutionrelative:pra_12_cookie\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DE73A60-537B-4983-8485-D50DA1FF227B}|pra_12_cookie\\pra_12_cookie.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p12_cookie\\pra_12_cookie\\pra_12_cookie\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DE73A60-537B-4983-8485-D50DA1FF227B}|pra_12_cookie\\pra_12_cookie.csproj|solutionrelative:pra_12_cookie\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebForm1.aspx.cs",
-              "DocumentMoniker": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\p12_cookie\\pra_12_cookie\\pra_12_cookie\\WebForm1.aspx.cs",
-              "RelativeDocumentMoniker": "pra_12_cookie\\WebForm1.aspx.cs",
-              "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\p12_cookie\\pra_12_cookie\\pra_12_cookie\\WebForm1.aspx.cs",
-              "RelativeToolTip": "pra_12_cookie\\WebForm1.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T15:51:36.873Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

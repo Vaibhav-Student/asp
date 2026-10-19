@@ -32,6 +32,8 @@
                 Value="graps.jpg">
             </asp:ListItem>
             
+            <asp:ListItem Value="graps.jpg">Graps2</asp:ListItem>
+            
         </asp:ListBox>
         <p>
             <asp:Image 

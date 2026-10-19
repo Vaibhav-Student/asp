@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|solutionrelative:pra_10_introduction_to_master_page\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p10_introduction_to_master_page\\pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P10_introduction_to_master_page\\pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|solutionrelative:pra_10_introduction_to_master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p10_introduction_to_master_page\\pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P10_introduction_to_master_page\\pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|solutionrelative:pra_10_introduction_to_master_page\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|d:\\education\\mca\\sem_3\\asp net\\exam_practical\\p10_introduction_to_master_page\\pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P10_introduction_to_master_page\\pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{843D865C-5E5A-4326-A741-B58FAC774DE9}|pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page.csproj|solutionrelative:pra_10_introduction_to_master_page\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "pra_10_introduction_to_master_page\\Site.Master",
               "ToolTip": "D:\\Education\\MCA\\Sem_3\\ASP NET\\Exam_Practical\\P10_introduction_to_master_page\\pra_10_introduction_to_master_page\\pra_10_introduction_to_master_page\\Site.Master",
               "RelativeToolTip": "pra_10_introduction_to_master_page\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-08-13T11:51:04.572Z",
               "EditorCaption": ""
